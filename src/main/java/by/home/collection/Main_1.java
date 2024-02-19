@@ -22,7 +22,6 @@ public class Main_1 {
             System.out.println(element);
         }
 
-        Map<String,Integer> f = Map.of();
 
     }
 }
