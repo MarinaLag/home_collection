@@ -1,9 +1,8 @@
-package by.home.collection;
+package by.learn.collection;
 
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
-import java.util.Map;
 
 public class Main_1 {
     public static void main(String[] args) {

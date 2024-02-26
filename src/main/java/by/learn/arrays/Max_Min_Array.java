@@ -1,7 +1,6 @@
-package by.home.arrays;
+package by.learn.arrays;
 
 import java.util.*;
-import java.util.function.Consumer;
 
 public class Max_Min_Array {
     public static void main(String[] args) {
@@ -104,5 +103,16 @@ public class Max_Min_Array {
             System.out.println(elem);
         }
 
+
+        ArrayList arrayList = new ArrayList<>();
+        arrayList.add("Sskjksc");
+        arrayList.add(20);
+
+        for (Object o : arrayList) {
+            System.out.println(o);
+        }
+        ArrayList<String> stringArrayList = new ArrayList<>();
+        stringArrayList.add("dfd");
+     //  stringArrayList.add(25);
     }
 }
