@@ -103,7 +103,7 @@ public class Max_Min_Array {
             System.out.println(elem);
         }
 
-
+// Рекомендованно типизировать коллекции
         ArrayList arrayList = new ArrayList<>();
         arrayList.add("Sskjksc");
         arrayList.add(20);
